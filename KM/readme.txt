@@ -1,0 +1,1 @@
+traffic폴더 내 bus_subway, commute, complain 폴더와 traffic_entropy_score_25.ipynb 파일이 교통 관련 점수 산출 eda와 데이터 검증입니다.
